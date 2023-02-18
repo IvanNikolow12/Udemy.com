@@ -1,0 +1,64 @@
+html,
+body {
+    height: 100%;
+}
+
+#cover {
+    background: #222 url('img/stars.jpg') center center no-repeat;
+    color: white;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#cover-caption {
+    width: 150%;
+    margin-left: 250px;
+}
+
+.carousel-item {
+    text-align: center;
+}
+
+.section-content {
+    width: 100%;
+    padding: 4rem 0;
+}
+
+.card-block {
+    padding: 1rem;
+    text-align: center;
+}
+
+#about {
+    background: url('img/man-tree.jpg') bottom center no-repeat;
+    background-size: cover;
+    width: 100%;  
+}
+
+.about-text {
+    background-color: rgba(0,0,0, .8);
+    color: white;
+    padding: 3rem;
+}
+
+#footer-main {
+    background-color: rgba(0,0,0, .98);
+    padding-top: 3rem;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
